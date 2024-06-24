@@ -24,6 +24,12 @@ public class ProductsController : ControllerBase
         _productService = productService;
     }
 
+    //TODO: Add advanced search
+
+    //TODO: Add get for all the products
+
+    //TODO: Add users, login and other realted logic
+
     /// <summary>
     /// Retrieves a list of products.
     /// </summary>
